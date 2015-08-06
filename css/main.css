@@ -1,0 +1,87 @@
+main.css
+
+nav {
+  min-width: 100%;
+  height: 48px;
+  font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+
+nav ul {
+  position: relative;
+  bottom: 2px;
+  right: 1px;
+  float: right;
+  margin: 12px 18px;
+  padding: 10px 30px;
+}
+
+nav li {
+  margin: 15px 5px 15px 6px;
+  padding: 5px 4px;
+  font-size: 12px;
+  display: inline;
+  color: #369;
+}
+
+nav a{
+	color: 369;
+	text-decoration: none;
+
+}
+a.signin{
+	color: #18AFE0;
+}
+
+
+header {
+  clear: both;
+  width: 829px;
+  height: 163px;
+  margin: 0 auto;
+  padding: 6px 0;
+  text-align: center;
+  font-family: "CrimsonSemiBold", "Times New Roman", Georgia, serif;
+}
+
+header h1 {
+  font-weight: 500;
+  font-size: 58px;
+  line-height: 1em;
+  margin: 10px 0 20px 0;
+  letter-spacing: -2px;
+  color: #232323;
+  clear: both;
+}
+
+header h5 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5em;
+  margin: 10px 0;
+  color: #222;
+}
+
+h5 {
+  display: block;
+  font-size: 0.83em;
+  margin: 1.67em;
+  margin: 1.67em;
+  margin: 0px;
+  margin: 0px;
+  font-weight: bold;
+}
+
+section {
+  text-align: center;
+  height: 288px;
+  padding-bottom: 30px;
+  font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+
+section {
+  margin: 30px auto;
+  width: 825px;
+  display: block;
+}
+
+
